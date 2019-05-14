@@ -1,4 +1,4 @@
-# Dataset Webapp-1 Regression-1
+# Dataset Webapp-2 Regression-1
 
 In this repository we can see the logs of the regression:
 
